@@ -1,1 +1,0 @@
-ruff, slight*growl, *Growl, slight*growl, slight*growl
